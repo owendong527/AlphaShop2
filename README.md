@@ -2,6 +2,8 @@
 
 ALPHA Shop II：元件渲染
 
+## 圖示
+![image](https://github.com/owendong527/AlphaShop2/blob/main/Snipaste_2023-10-15_01-01-48.png)
 
 ## 執行方式
 
